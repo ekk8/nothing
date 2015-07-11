@@ -1,2 +1,2 @@
 # nothing
-A small repository for testing
+A repository for testing
